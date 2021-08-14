@@ -27,14 +27,18 @@ hi, i'm Thiago Reis, a meticulous web developer with 7 months of front-end exper
 
 
 
-
+<br />
+<br />
+<br />
+<br />
 
 
 
 
 
 📈 my github stats
-
+<br />
+<br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thiagoreiss45&show_icons=true&theme=gotham" alt="thiagoreiss45" />
 
 
