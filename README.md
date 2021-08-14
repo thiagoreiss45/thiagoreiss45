@@ -28,9 +28,7 @@ hi, i'm Thiago Reis, a meticulous web developer with 7 months of front-end exper
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
+
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->          
@@ -40,11 +38,7 @@ hi, i'm Thiago Reis, a meticulous web developer with 7 months of front-end exper
 <!-- TODO-IST:END -->
 
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
+
 
 
 📈 my github stats
