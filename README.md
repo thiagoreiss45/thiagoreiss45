@@ -27,11 +27,12 @@ hi, i'm Thiago Reis, a meticulous web developer with 7 months of front-end exper
 
 
 
-<br />
-<br />
-<br />
-<br />
-
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->          
+🌸  Completed 0 tasks today           
+✅  Completed 210 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
 
 
 
