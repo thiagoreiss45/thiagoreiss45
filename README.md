@@ -27,7 +27,6 @@ hi, i'm Thiago Reis, a meticulous web developer with 7 months of front-end exper
 
 <br />
 <br />
-<br />
 
 
 🚧 **my todoist stats:**
