@@ -7,7 +7,7 @@
 <br />
 <br />
 
-hi, i'm Thiago Reis, a devops engineer with 2+ years of experience. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm Thiago Bessa, a devops engineer with 2+ years of experience. i take great care in the experience, architecture, and code quality of the things I build.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
